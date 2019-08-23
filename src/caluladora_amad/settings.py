@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'amad',
         'USER': 'root', 
         'PASSWORD': 'administrador',
-        'HOST': '127.0.0.1:3306',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
             'sql_mode': 'traditional',
