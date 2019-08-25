@@ -1,0 +1,19 @@
+#divcard{
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    top: 66%;
+    left: 50%;
+    margin-right: -10%;
+    
+    
+    
+}
+#cardbody{
+    padding: 1rem; height: auto; color: whitesmoke;
+    
+    margin: auto;
+}
+#body{
+    background-color: rgb(55, 55, 56);
+}
